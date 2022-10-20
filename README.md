@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thafsal
 - 👀 I’m interested in MEARN STACK
-- 🌱 I’m currently learning MEARN STACK
+- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on Fullstack developer 
 - 📫 How to reach me ...
 
